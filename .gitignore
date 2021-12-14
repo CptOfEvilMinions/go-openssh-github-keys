@@ -15,5 +15,4 @@
 # vendor/
 
 # Settings and secrets
-conf/*
-!conf/settings.yaml.example
+conf/settings.yaml
